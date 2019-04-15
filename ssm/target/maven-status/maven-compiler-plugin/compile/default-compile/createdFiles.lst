@@ -1,0 +1,10 @@
+com\shsxt\model\ResultInfo.class
+com\shsxt\base\AssertUtil.class
+com\shsxt\po\User.class
+com\shsxt\base\ParamException.class
+com\shsxt\service\UserService.class
+com\shsxt\base\BaseQuery.class
+com\shsxt\controller\UserController.class
+com\shsxt\base\BaseService.class
+com\shsxt\base\BaseMapper.class
+com\shsxt\dao\UserMapper.class
